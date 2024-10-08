@@ -5,4 +5,4 @@ try:
 except ValueError as e:
   print ("Вы ввыели неверную строку")
   print (e)
-else: print (int(x))
+else: print (x)
